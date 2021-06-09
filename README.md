@@ -1,4 +1,4 @@
-# # ** English version below **
+# * English version below *
 # Aplikacja do śledzenia aktywności ruchowej
 ## Koncepcja aplikacji 
 

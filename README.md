@@ -18,7 +18,7 @@ Ekran będący najważniejszą częścią aplikacji, gdyż to właśnie tu zapis
 ![NewRouteScreen](https://github.com/adsuski/Uniwersytet/blob/master/images/NewRouteScreen.jpg)
 
 ## Ekran pobierania lokalizacji
-Ekran w którym po naciśnięciu „Start” rozpoczyna się odliczanie czasu, pobieranie lokalizacji użytkownika i liczenie odległości pomiędzy każdym z położeń użytkownika. Kiedy użytkownik chce zakończyć rejestrowanie trasy musi wybrać „Stop” po czym ma szansę wznowić proces pobierania lokalizacji lub przekazać parametry: dystansu, czasu i koordynatów do „Ekranu dodawania trasy”
+Ekran w którym po naciśnięciu „Start” rozpoczyna się odliczanie czasu, pobieranie lokalizacji użytkownika i liczenie odległości pomiędzy każdym z położeń użytkownika. Kiedy użytkownik chce zakończyć rejestrowanie trasy musi wybrać „Stop” po czym ma szansę wznowić proces pobierania lokalizacji lub przekazać parametry: dystansu, czasu i koordynatów do „Ekranu dodawania trasy”  
 ![MapScreen](https://github.com/adsuski/Uniwersytet/blob/master/images/MapScreen.jpg)
 
 ## Ekran szczegółów trasy
